@@ -1,0 +1,16 @@
+{
+  "name": "math-game",
+  "version": "1.0.0",
+  "description": "A fun math game using calculator-lib",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "calculator-lib": "^1.0.0",
+    "readline-sync": "^1.4.10",
+    "chalk": "^4.1.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
